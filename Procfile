@@ -1,1 +1,1 @@
-web: python scrypt.py 
+web: python script.py 

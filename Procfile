@@ -1,1 +1,1 @@
-web: python telebot.py --log-file-
+web: python scrypt.py 
